@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Soumyadip Moni <avater.clasher@gmail.com"]
 license = "MIT"
 categories = ["command-line-utilities", "timer", "time-utility"]
-
+description = "This is a timer,stopwatch,and a clock all in one !!"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
